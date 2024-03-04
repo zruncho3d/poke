@@ -149,7 +149,8 @@ For questions, find the Poke user project on the Voron Discord and ask a questio
 * Flexure layout and concept: `chirpy`
 * Flexure proof of concepts that motivated this: `andrewmcgr` (check out [FlexTap](https://github.com/andrewmcgr/FlexTAP)!), `Alexander Þór`.
 * Set-screw switch preload and electrical contact design is original - or at least, Z hadn’t seen it before.  But nothing’s truly original anymore, so if you see an earlier reference, set me a note and I'll update this.
-* Beta testers that did beta prints: `kevinakasam`, `kyle`, `caza`,
+* Beta testers that did beta prints: `kevinakasam`, `kyle`, `caza`.
+* Gif at the top is courtesy of `kevinakasam`.
 
 :heart: *-Zruncho*
 
