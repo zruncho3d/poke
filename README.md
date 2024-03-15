@@ -52,6 +52,10 @@ In comparison to Boop, Poke is only 7g vs ~87g (which is a big deal where a tool
 
 In fairness, hotend support is limited and testing is nowhere near as complete. Hence, the status is Alpha.
 
+## Updates
+
+2024-03-14: Bugfix: Updated to shift filament path back by 0.245 to align with V0.  Thanks `nhchiu`!
+
 ## Status: Alpha
 
 What does that mean?
